@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+{
+    "text": "Test web_app",
+    "web_app": {
+        "url": "https://baggongelite.github.io/Baggongelite/"
+    }
+}
